@@ -13,4 +13,4 @@ LILYGO TTGO T-Watch 2020 V1           |  LILYGO TTGO T-Camera
 :-------------------------:|:-------------------------:
 ![t-watch2020](https://user-images.githubusercontent.com/46986576/205510335-086e1562-b65c-4367-bf82-db75e9d0e189.jpg)|![ttgo-camera](https://user-images.githubusercontent.com/46986576/205510337-6986e965-206d-49f3-ac5a-81f51c03815a.jpg)
 
-The result is obviously still choppy, but is better than the last version. The current bottleneck is the speed at which I am able to update the display, which could be because I update every pixel on the display with each jpg recieved, rather than only the sections of the image that have been changed.
+The result is obviously still choppy, but is better than the last version. The current bottleneck is the speed at which I am able to update the display, which could be because I update every pixel on the display with each jpg received, rather than only the sections of the image that have been changed.
